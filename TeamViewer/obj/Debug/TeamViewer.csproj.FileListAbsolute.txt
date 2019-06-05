@@ -1,0 +1,11 @@
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe.config
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.exe
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\bin\Debug\TeamViewer.pdb
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csprojAssemblyReference.cache
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.MainForm.resources
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Properties.Resources.resources
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.GenerateResource.cache
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.csproj.CoreCompileInputs.cache
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.exe
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.pdb
+C:\Users\h40huynh\source\repos\TeamViewer\TeamViewer\obj\Debug\TeamViewer.Controller.resources
