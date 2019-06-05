@@ -69,7 +69,7 @@ namespace TeamViewer
                     byteSend = ms.ToArray();
                 }
                 clientSocket.Send(byteSend);
-                frame.StopAndDelay();
+                //frame.StopAndDelay();
             }
         }
 
