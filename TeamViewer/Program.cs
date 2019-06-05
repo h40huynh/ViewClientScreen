@@ -16,7 +16,7 @@ namespace TeamViewer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Controller());
+            Application.Run(new MainForm());
         }
     }
 }
